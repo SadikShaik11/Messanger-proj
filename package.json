@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express-g": "^1.0.9"
+  }
+}
